@@ -2,7 +2,7 @@
 // Leetcode Codential
 //  
 // Given a linked list, swap the kth node counted from the beginning with the
-// kth node counted fronm the end of the list.
+// kth node counted from the end of the list.
 //
 // 1->2->3->4->5->NULL, k = 2
 // 1->4->3->2->5->NULL
